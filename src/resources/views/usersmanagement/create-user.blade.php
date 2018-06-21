@@ -1,4 +1,4 @@
-@extends(config('laravelusers.laravelUsersBladeExtended'))
+@extends('layouts.app')
 
 @section('template_title')
     @lang('laravelusers::laravelusers.create-new-user')
